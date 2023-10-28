@@ -7,7 +7,7 @@ bleach==2.1.4
 certifi==2018.8.13
 cffi==1.11.5
 constantly==15.1.0
-cryptography==2.3.1
+cryptography==41.0.5
 cycler==0.10.0
 decorator==4.3.0
 entrypoints==0.2.3
@@ -61,7 +61,7 @@ terminado==0.8.1
 testpath==0.3.1
 tornado==5.1
 traitlets==4.3.2
-Twisted==18.7.0
+Twisted==23.10.0rc1
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.0
